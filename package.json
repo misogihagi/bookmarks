@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/misogihagi/bookmarks/issues"
   },
-  "homepage": "https://github.com/misogihagi/bookmarks#readme"
+  "homepage": "https://github.com/misogihagi/bookmarks#readme",
+  "dependencies": {
+    "static-marks": "^3.0.0"
+  }
 }
