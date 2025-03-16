@@ -1,9 +1,444 @@
   Imported:
-  - Knowledge:
-      - aws lambda battle: >-
-          https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1
-  - 連載：暗号と暗号史:
-      - 【第1回】暗号黎明期～古代ギリシャ・ローマの暗号～: https://www.hummingheads.co.jp/reports/series/ser01/110322.html
-  - Tools:
-      - ASN.1 JavaScript decoder: http://lapo.it/asn1js/
+  - test:
+      - agents-course (Hugging Face Agents Course): https://huggingface.co/agents-course
+  - ブックマークツールバー:
+      - UXArchive - Made by Waldo: https://uxarchive.com/
+      - 検索 プロジェクト | Behance の写真、ビデオ、ロゴ、イラスト、ブランディング: https://www.behance.net/
+      - Unlimited UI Kits, Icons, Templates, Themes and More - UpLabs: https://www.uplabs.com/
+      - Bestfolios - UI/UX Design Portfolio Inspiration and Showcase: https://www.bestfolios.com/home
+      - UI Sources | Mobile Design Patterns and Interactions: https://www.uisources.com/
+      - Dribbble - Discover the World’s Top Designers & Creative Professionals: https://dribbble.com/
+      - Browse iOS Apps | Mobbin: https://mobbin.com/browse/ios/apps
+      - お道具箱 for Web: https://www.xn--t8ju21hu42avir.com/
+      - New Tab: about:newtab
+      - 株式会社JAJAAAN ｜全国対応！安心高品質のWeb制作・広告代理: https://jajaaan.co.jp/
+      - 動くWebデザインアイデア帳 | 動くWebデザインアイディア帳: https://coco-factory.jp/ugokuweb/
+      - マネるデザイン研究所: https://maneru-design-lab.net/
+      - PageSpeed Insights: https://pagespeed.web.dev/?hl=ja
+      - Winnie the Pooh's Home Run Derby | Disney--Games.com: >-
+          https://www.disney--games.com/winnie_the_pooh_s_home_run_derby_338.html
+      - 'Mukosame/Anime2Sketch: A sketch extractor for anime/illustration.': https://github.com/Mukosame/Anime2Sketch
+      - JF和歌山東漁業協同組合トップページ（ＪＦ和歌山東漁協）: http://www.jf-wakayamahigashi.jp/index.html
+      - 集電装置 - Wikipedia: https://ja.wikipedia.org/wiki/%E9%9B%86%E9%9B%BB%E8%A3%85%E7%BD%AE
+      - Kalidoface 3D - Face & Full Body Tracking: https://3d.kalidoface.com/
+      - I/O 3000 | Webデザインギャラリー: https://io3000.com/
+      - '猫のラーメン屋さん、今は焼き芋屋さん、山田三毛猫 : 価格変更のお知らせ。': http://sirokurotyanoneko.livedoor.blog/archives/1988717.html
+      - 'CS50 for Japanese: コンピュータサイエンスの入門 – 当ウェブサイトは、Creative Commons ライセンスに基づいて管理されています。': https://cs50.jp/
+      - 一般財団法人 水産物市場改善協会／日本おさかなマイスター協会: http://www.osakana-center.com/
+      - 明和海運株式会社 | » 海運用語集: https://www.meiwakaiun.com/meiwaplus/glossary
+      - freeeアクセシビリティー・ガイドライン — freeeアクセシビリティー・ガイドライン Ver. 202301.0 ドキュメント: https://a11y-guidelines.freee.co.jp/
+      - 無料デザインツール：プレゼンテーション、動画、SNS | Canva: https://www.canva.com/ja_jp/
+      - 鉄道の豆知識 | 日本民営鉄道協会: https://www.mintetsu.or.jp/knowledge/
+      - 共通語な方言 篠崎晃一 | web日本語: https://www.web-nihongo.com/k_hougen/
+      - PLATEAU VIEW(Ver1.1): https://plateauview.mlit.go.jp/
+      - Lアラート | マルチメディア振興センター: https://www.fmmc.or.jp/commons/
+      - 特許情報プラットフォーム｜J-PlatPat [JPP]: https://www.j-platpat.inpit.go.jp/
+      - TechFinder | 個人開発のための技術記事データベース: https://techfinder.dev/
+      - 脳トレ漢字 | サライ.jp｜小学館の雑誌『サライ』公式サイト: https://serai.jp/tag/%e8%84%b3%e3%83%88%e3%83%ac%e6%bc%a2%e5%ad%97
+      - HCD基礎検定 – 一般社団法人 人間中心社会共創機構: https://hcs-cc.org/hcd/
+      - s275.pdf: >-
+          https://www.mod.go.jp/asdf/3dep/prd/nyuusatsu/nyuusatu_pdf/shiyousyo/s275.pdf
+      - 沖縄方言を3557語から検索 | あじまぁ: https://hougen.ajima.jp/
+      - Wine & Cheese Map: http://www.wineandcheesemap.com/
+      - Bizgram (ビズグラム) | ビジネスモデルデータベース: https://bizgram.zukai.co/
+      - 登記情報提供サービス: https://www1.touki.or.jp/
+      - 法務省登記所備付地図データ ｜: https://front.geospatial.jp/houmu-chiseki/
+      - 建築工事業界の専門用語 | 株式会社TO｜名古屋の建築デザイン設計事務所: >-
+          https://www.tototo.biz/staffblog/category/terminology-building-construction-industry/
+      - Lighthouse - Chrome ウェブストア: >-
+          https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=ja
+      - Eagle - 画像収集と管理するアプリ: https://jp.eagle.cool/
+      - TCP/IP普及以前、すべては1万分の1だった!? － ＠IT: https://atmarkit.itmedia.co.jp/fnetwork/tanpatsu/24tcpip/01.html
+      - 初めての店で「必ず聞くべきこと」って? 夜の社交場・スナックの「基本マナー」と「名店を探すコツ」の噺 - 酒噺│もっとお酒が楽しくなる情報サイト: https://sakabanashi.takarashuzo.co.jp/cat2/kayUM
+      - エレ鉄 / 鉄道電気CH - YouTube: https://www.youtube.com/@Elect_railway
+      - 「がいし」とは｜日本ガイシ株式会社: https://www.ngk.co.jp/gaishi/
+      - 岡山の街角から~やっぱり岡山が好き!~/岡山の情報サイト、観光から歴史までご紹介！: https://www.okayamania.com/index.html
+      - 東京都卸売市場日報（2022年度） - データセット - 東京都オープンデータカタログサイト: https://catalog.data.metro.tokyo.lg.jp/dataset/t000013d0000000005
+      - 気象庁｜過去の気象データ検索: >-
+          https://www.data.jma.go.jp/obd/stats/etrn/index.php?prec_no=&block_no=&year=1995&month=&day=&view=
+      - 001519687.pdf: https://www.mlit.go.jp/report/press/content/001519687.pdf
+      - 英語目次: https://www.shinko-keirin.co.jp/keirinkan/koei/english/eng_index.html
+      - https://publicsuffix.org/list/public_suffix_list.dat: https://publicsuffix.org/list/public_suffix_list.dat
+      - ドット絵ダウンロードサイト DOTOWN|無料の素材サイト: https://dotown.maeda-design-room.net/
+      - Can I use... Support tables for HTML5, CSS3, etc: https://caniuse.com/
+      - Interactive CSS Grid Generator | Layoutit Grid: https://grid.layoutit.com/
+      - CSS Shadow Palette Generator: https://www.joshwcomeau.com/shadow-palette/
+      - Editor | JSON Crack: https://jsoncrack.com/editor
+      - JSON to TypeScript: https://transform.tools/json-to-typescript
+      - Animista - On-Demand CSS Animations Library: https://animista.net/
+      - CSS Load.net - Loading CSS spinners and bars generator for AJAX & JQuery: https://cssload.net/
+      - Preloaders.net - Loading GIF, SVG & APNG (AJAX loaders) generator: https://icons8.com/preloaders/
+      - All – Tiny Helpers: https://tiny-helpers.dev/latest/
+      - 'CodePen: Online Code Editor and Front End Web Developer Community': https://codepen.io/trending
+      - JSFiddle - Code Playground: https://jsfiddle.net/
+      - Javascript Playground (Sandbox, Repl): https://playcode.io/
+      - 'CodeSandbox: Code, Review and Deploy in Record Time': https://codesandbox.io/
+      - JS Bin - Collaborative JavaScript Debugging: https://jsbin.com/?html,output
+      - とにかく日本の住所のヤバさをもっと知るべきだと思います｜inuro: https://note.com/inuro/n/n7ec7cf15cf9c
+      - 一覧・リスト | 沖縄の心（しまぬくくる）: http://i-uchina.com/list/
+      - レトロゲームズ | カプコンタウン: https://captown.capcom.com/ja/retro_games#section-bottom
+      - 修学旅行ドットコム｜修学旅行ドットコムは、（公財）全国修学旅行研究協会（略称：全修協／内閣府認定）の公式サイトです。: http://shugakuryoko.com/
+      - 政府統計の総合窓口: https://www.e-stat.go.jp/
+      - MonoLisa - A font family designed for software developers. Font follows function.: https://www.monolisa.dev/
+      - Nacelle | ドットコロン: https://dotcolon.net/font/nacelle/
+      - Melete | ドットコロン: https://dotcolon.net/font/melete/
+      - F1.8 | ドットコロン: https://dotcolon.net/font/f1_8/
+      - かなたとひなたフォント: https://flopdesign.com/syotai/kanata.html
+      - Roboto Serif - Google Fonts: https://fonts.google.com/specimen/Roboto+Serif
+      - Zizo Font: https://teewwa.gumroad.com/l/Zizo_font
+      - Baunk Typeface - FREE on Behance: https://www.behance.net/gallery/135901129/Baunk-Typeface-FREE
+      - Gerbil Modern Sans Serif Typeface - Free Font on Behance: >-
+          https://www.behance.net/gallery/138189473/Gerbil-Modern-Sans-Serif-Typeface-Free-Font
+      - Tropican Display Sans – Free Design Resources: https://freedesignresources.net/tropican-display-sans/
+      - Wagon Free Font – Dirtyline Studio: https://dirtylinestudio.com/product/wagon-free-font/
+      - Valery Luxury Serif Font – Free Design Resources: https://freedesignresources.net/valery-luxury-serif-font/
+      - Shocka Font on Behance: https://www.behance.net/gallery/135799187/Shocka-Font
+      - Otto Attack Type 2.0 — update free typefaces on Behance: >-
+          https://www.behance.net/gallery/137218029/Otto-Attack-Type-20-update-free-typefaces
+      - Haedus Font | dafont.com: https://www.dafont.com/haedus.font
+      - Nosie Warning-ϗ 騒音警示·改| free variable font フリー可変フォント on Behance: >-
+          https://www.behance.net/gallery/137804607/Nosie-Warning-free-variable-font-
+      - Deserta - FREE FONT on Behance: https://www.behance.net/gallery/134622603/Deserta-FREE-FONT
+      - Daizen Script Calligraphy Font: https://unblast.com/daizen-script-calligraphy-font/
+      - Love Script Font | dafont.com: https://www.dafont.com/love-script.font
+      - Cymbria - Free Vintage Typeface on Behance: >-
+          https://www.behance.net/gallery/134321133/Cymbria-Free-Vintage-Typeface
+      - Mash OFL – Brave Type: https://bravetype.de/mash-ofl/
+      - Veneziano - Free font on Behance: https://www.behance.net/gallery/126998523/Veneziano
+      - LINE Seed: https://seed.line.me/index_jp.html
+      - Introduction | IBM Plex: https://www.ibm.com/plex/
+      - Zen Maru Gothic - Google Fonts: https://fonts.google.com/specimen/Zen+Maru+Gothic
+      - 郵便番号データダウンロード - 日本郵便: https://www.post.japanpost.jp/zipcode/download.html
+      - いつの間にか容量が減っている商品wiki - いつの間にか容量が減っている商品wiki: https://shrinkflation.info/
+      - Video Game Database - MobyGames: https://www.mobygames.com/
+      - 日本語感情表現辞書 JIWC-Dictionary – NAIST Social Computing Lab.: https://sociocom.naist.jp/jiwc-dictionary/
+      - SNOW [言語商会]: https://www.jnlp.org/GengoHouse/snow/top
+      - Photopea | Online Photo Editor: https://www.photopea.com/
+      - AI World: https://jw-automation.com/aiworld
+      - JQuake: https://jquake.net/
+      - 公益財団法人大宅壮一文庫: https://www.oya-bunko.or.jp/
+      - プレイルーム　警視庁: https://www.keishicho.metro.tokyo.lg.jp/about_mpd/shokai/pipo/play/
+      - Wireless・のおと｜サイレックス・テクノロジー株式会社: https://www.silex.jp/blog/wireless/
+      - HPKI認証局運用規約関連資料・証明書類｜厚生労働省: >-
+          https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/pki-policy/repository.html
+      - 交通事故統計情報のオープンデータ｜警察庁Webサイト: >-
+          https://www.npa.go.jp/publications/statistics/koutsuu/opendata/index_opendata.html
+      - Grimace’s Birthday: https://grimacesbirthday.com/
+      - 電話局の写真館: https://denwakyoku.jp/
+      - 値上げ備忘録 ～値上げの事実を忘れぬために～: https://neage.jp/
+      - 日本のアニメ総合データベース「アニメ大全」: https://animedb.jp/
+      - LOGIN: https://d1l-dh.d1-law.com/auth/smlogin196.jsp
+      - <4D6963726F736F667420576F7264202D20528169835A83628367816A90B68E598AC7979D814595698EBF95DB8FD8834A3F834383673F83743F8362834E2E646F6378> - guidebook.pdf: >-
+          https://www.meti.go.jp/policy/mono_info_service/mono/aerospace/pdf/guidebook.pdf
+      - 信号機なんでも読本－日本語 - nandoku-j.pdf: https://www.tmt.or.jp/research/pdf/nandoku-j.pdf
+      - 0000184703.pdf: >-
+          https://www.mhlw.go.jp/file/06-Seisakujouhou-11200000-Roudoukijunkyoku/0000184703.pdf
+      - 調査・統計用語集｜日経リサーチ: https://service.nikkei-r.co.jp/glossary
+      - デジタル庁のデータ分析基盤「sukuna」｜デジタル庁: https://digital-gov.note.jp/n/na227ce427930
+      - Discover the Google Analytics platform: https://ga-dev-tools.google/
+      - 文章執筆AI「ELYZA Pencil」: https://www.pencil.elyza.ai/
+      - 000079352.pdf: https://www.ipa.go.jp/publish/qv6pgp0000000wrt-att/000079352.pdf
+      - ユーザのための要件定義ガイド 第2版 要件定義を成功に導く128の勘どころ | 書籍・刊行物 | IPA 独立行政法人 情報処理推進機構: https://www.ipa.go.jp/publish/tn20191220.html
+      - RESAS-API - 不動産取引価格: >-
+          https://opendata.resas-portal.go.jp/docs/api/v1/townPlanning/estateTransaction/bar.html
+      - 山口弁よもやま話: http://www.ysn21.jp/furusato/yomoyama/yomoyama.html
+      - '化学を「ばけがく」と読むみたいな言葉一覧・完全版 (1/2) :: デイリーポータルZ': https://dailyportalz.jp/kiji/bagegaku-mitaini-yomu-kotoba
+      - バクラク | 経理のメンドクサイを解決: >-
+          https://bakuraku.jp/?utm_source=google&utm_medium=paid&utm_campaign=search&utm_term=%E3%83%90%E3%82%AF%E3%83%A9%E3%82%AF_e&utm_content=all_brand_g01&gad_source=1&gclid=EAIaIQobChMI-4P1kM3VggMVQRF7Bx0PPAWYEAAYASAAEgJSZ_D_BwE
+      - 一般社団法人リテールAI研究会: https://retail-ai.or.jp/
+      - J-Debit｜キャッシュカードではじめる、キャッシュレス: https://jeppo.jp/jdebit/
+      - 飲料缶についての豆知識: http://web1.kcn.jp/yanoya/index.html
+      - 防災・小型機運航技術－「災害救援航空機情報共有ネットワーク（D-NET）」－ | 次世代運航システム（DREAMS） | JAXA航空技術部門: https://www.aero.jaxa.jp/research/star/dreams/dnet/
+      - AI search that understands | Algolia: https://www.algolia.com/
+      - トップページ - RESAS 地域経済分析システム: https://resas.go.jp/#/13/13101
+      - 政府相互運用性フレームワーク（GIF）｜デジタル庁: >-
+          https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework
+      - jGrants ネットで簡単！補助金申請 | jGrants: https://www.jgrants-portal.go.jp/
+      - タイムズパーキングの強み｜タイムズ２４株式会社: http://www.times24.co.jp/service/times/value.html
+      - TOP - 一般社団法人 日本公園施設業協会: https://www.jpfa.or.jp/
+      - 公園とみどり：都市公園における遊具の管理 - 国土交通省: https://www.mlit.go.jp/toshi/park/toshi_parkgreen_tk_000083.html
+      - Free Google Slides themes and Powerpoint templates | Slidesgo: https://slidesgo.com/
+      - Elevate Your Business with 10Web | Build Your Website with AI: https://10web.io/
+      - Durable AI Website Builder and Small Business Software: https://durable.co/
+      - Create Presentation Slides With AI in seconds with SlidesAI: https://www.slidesai.io/ja
+      - Framer — The internet is your canvas: https://www.framer.com/
+      - 作品カテゴリー | ProtoPedia: https://protopedia.net/prototype
+      - 'AIZU ONLINE JUDGE: Programming Challenge': https://judge.u-aizu.ac.jp/onlinejudge/index.jsp?lang=ja
+      - JA/EN Url Toggler: >-
+          https://chromewebstore.google.com/detail/jaen-url-toggler/cojobaphcadfijmiiopiklfpompmljgm
+      - Text Blurrer: >-
+          https://chromewebstore.google.com/detail/text-blurrer/mbikojdgkmpjfackcmiliemgmkdkbbcl
+      - Azure Portal plus: >-
+          https://chromewebstore.google.com/detail/azure-portal-plus/jkcphnjnffinkpflgnpcjagggmjmakdg
+      - Amazing Icon Downloader - Chrome Web Store: >-
+          https://chrome.google.com/webstore/detail/amazing-icon-downloader/kllljifcjfleikiipbkdcgllbllahaob/
+      - 【サンプルから選択して編集！】CSS ボタンジェネレーター | Front-end Tools - 高機能で直感的な、HTML/CSSジェネレーター・シミュレーターのサイトです。: https://front-end-tools.com/generateButton/
+      - Front-end Tools - 高機能で直感的な、HTML/CSSジェネレーター・シミュレーターのサイトです。: https://front-end-tools.com/
+      - about:blank: about:blank
+      - SANKOU! | Webデザインギャラリー･参考サイト集: https://sankoudesign.com/
+      - Roboto - Google Fonts: https://fonts.google.com/specimen/Roboto
+      - The ultimate MySQL database platform — PlanetScale: https://planetscale.com/
+      - Database | Supabase Docs: https://supabase.com/docs/guides/database/overview
+      - Neon — Serverless, Fault-Tolerant, Branchable Postgres: https://neon.tech/
+      - Vercel Postgres: https://vercel.com/docs/storage/vercel-postgres
+      - TiDB Serverless 料金 | MySQL互換の分散型データベース | PingCAP株式会社: https://pingcap.co.jp/tidb-serverless-pricing-details/
+      - Serverless | Cockroach Labs: https://www.cockroachlabs.com/lp/serverless/
+      - Cloudflare D1 · Cloudflare D1 docs: https://developers.cloudflare.com/d1/
+      - 中国語学習素材館: https://toa-t-materials.com/
+      - 【中国語】頭いい、頭悪い、賢い、天才、狂ってる | 中国語学習素材館: https://toa-t-materials.com/2019/11/04/kotoba-147/
+      - Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.: >-
+          https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5
+      - カクテルログ (COCKTAILLOG) | ホームメイド カクテル レシピ: https://cocktaillog.com/ja
+      - Global DRO - Home: https://www.globaldro.com/JP/search
+      - ドーピング対象薬検索 - データインデックス: https://www.data-index.co.jp/medsearch/anti-doping/
+      - PRIME STUDY（プライム・スタディ） – Python試験とPHP試験の無料模擬試験サイト: https://study.prime-strategy.co.jp/
+      - データ解析・機械学習に関する手法・考え方・注意点のまとめ | データ化学工学研究室(金子研究室)＠明治大学 理工学部 応用化学科: https://datachemeng.com/summarydataanalysis/
+      - HeadingsMap – 🦊 Firefox (ja) 向け拡張機能を入手: https://addons.mozilla.org/ja/firefox/addon/headingsmap/
+      - HTML Outline: >-
+          https://chromewebstore.google.com/detail/html-outline/bbdofojliblplnpnjjckgbbobblppipj?pli=1
+      - 日本の生物多様性地図化プロジェクト：J-BMP: https://biodiversity-map.thinknature-japan.com/
+      - 'JAQKET: クイズを題材にした日本語QAデータセット': https://www.nlp.ecei.tohoku.ac.jp/projects/jaqket/
+      - マップ | れきちず: https://rekichizu.jp/map/
+      - デザインに役立つ心理学入門: https://www.unprinted.design/series/psychology/
+      - デザイナーが考慮すべき「錯視」のあれこれ | Swings: https://bulan.co/swings/the_illusion_in_the_design
+      - Master CISSP, CCSP, and SSCP Exams with (ISC)² Official Exam Prep App by LearnZapp: https://www.learnzapp.com/apps/cissp/
+      - HyperForm: https://hyperform.jp/
+      - Best practices for using EC2 Spot Instances with Amazon EKS | AWS re:Post: https://repost.aws/knowledge-center/eks-spot-instance-best-practices
+      - Meilisearch: https://www.meilisearch.com/
+      - 松尾研 LLM講座 講義コンテンツ | 東京大学松尾研究室 - Matsuo Lab: https://weblab.t.u-tokyo.ac.jp/llm_contents/
+      - 不動産情報ライブラリ: https://www.reinfolib.mlit.go.jp/
+      - Pricing - Projector: >-
+          https://projector.cloud-mercato.com/projects/aws-azure-google-ibm-oracle-vms-q1-2021/pricing/graph
+      - The社史: https://the-shashi.com/
+      - ジェトロ（日本貿易振興機構） | ジェトロ: https://www.jetro.go.jp/
+      - プラン - 駅すぱあと API （旧：駅すぱあとWebサービス） | 乗換案内・交通費計算のAPI: https://api-info.ekispert.com/plan/
+      - CloudLicense | AWS WEB問題集で学習しよう: https://cloud-license.com/
+      - Welcome - 100 Exercises To Learn Rust: https://rust-exercises.com/
+      - 'rust-lang/rustlings: :crab: Small exercises to get you used to reading and writing Rust code!': https://github.com/rust-lang/rustlings
+      - デジタル標高地形図 | 国土地理院: https://www.gsi.go.jp/kankyochiri/Laser_map.html
+      - 47都道府県のポリゴンデータ geojson | Japonyol: https://japonyol.net/editor/article/47-prefectures-geojson.html
+      - Weather API - OpenWeatherMap: https://openweathermap.org/api
+      - 総務省｜マイナンバー制度とマイナンバーカード｜公的個人認証サービスによる電子証明書（民間事業者向け）: https://www.soumu.go.jp/kojinbango_card/kojinninshou-02.html
+      - Squoosh: https://squoosh.app/
+      - silver_j.md: https://gist.github.com/sean2121/945035ef2341f0c39bf40762cd8531e0
+      - REx - Ruby Examination: https://rex.libertyfish.co.jp/
+      - あなたの声、無限大！ OnSay.ai: https://onsay.ai/
+      - Suno: https://suno.com/
+      - Zoho - ビジネス向けクラウドソフトウェアとSaaSアプリケーション: https://www.zoho.com/jp/
+      - パソコン初期設定|PCキッティング自動化サービスKitPost|PCリフレッシュ|Win10,Win11: https://www.kit-post.com/
+      - 【RPA】キッティング/業務自動化ツール「SetROBO」｜株式会社アープ: https://www.setrobo.jp/
+      - パソコンレンタルはAPEX RENTALS！個人も1日から即日利用可: https://www.apex106.com/pc/
+      - ジョーシス | ITデバイス & SaaS 統合管理クラウド: https://jp.josys.com/
+      - アット東京 Cloud Lab | アット東京: https://www.attokyo.co.jp/connectivity/cloudlab.html
+      - Test Case Management & Orchestration Software by TestRail: https://www.testrail.com/
+      - Codewars - Achieve mastery through coding practice and developer mentorship: https://www.codewars.com/
+      - Home - dmarcian: https://dmarcian.com/
+      - ANY.RUN - Interactive Online Malware Sandbox: https://any.run/
+      - VirusTotal - Home: https://www.virustotal.com/gui/home/upload
+      - Shodan Search Engine: https://www.shodan.io/
+      - CyberChef: https://gchq.github.io/CyberChef/
+      - Bento - A Link in Bio, but Rich and Beautiful.: https://bento.me/en/home
+      - Get Started with Contentful | Contentful: https://www.contentful.com/
+      - 'regex101: build, test, and debug regex': https://regex101.com/
+      - Documatic: https://www.documatic.com/
+      - Transform: https://transform.tools/
+      - Open Source Alternatives To Proprietary Software: https://www.opensourcealternative.to/
+      - Code Beautify and Code Formatter For Developers - to Beautify, Validate, Minify, JSON, XML, JavaScript, CSS, HTML, Excel and more: https://codebeautify.org/
+      - explainshell.com - match command-line arguments to their help text: https://explainshell.com/
+      - Home - SmallDev.tools: https://smalldev.tools/
+      - Devhints — TL;DR for developer documentation: https://devhints.io/
+      - Unminify JS, CSS, HTML, XML and JSON Code: https://unminify.com/
+      - Carbon | Create and share beautiful images of your source code: https://carbon.now.sh/
+      - Create beautiful images of your code: https://ray.so/
+      - 'practical-tutorials/project-based-learning: Curated list of project-based tutorials': >-
+          https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#javascript
+      - nodebestpractices/README.japanese.md at master · goldbergyoni/nodebestpractices: >-
+          https://github.com/goldbergyoni/nodebestpractices/blob/master/README.japanese.md
+      - javascript-algorithms/README.ja-JP.md at master · trekhleb/javascript-algorithms: >-
+          https://github.com/trekhleb/javascript-algorithms/blob/master/README.ja-JP.md
+      - coding-interview-university/translations/README-ja.md at main · jwasham/coding-interview-university: >-
+          https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ja.md
+      - free-programming-books/books/free-programming-books-ja.md at main · EbookFoundation/free-programming-books: >-
+          https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md
+      - 'bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more': https://github.com/bradtraversy/design-resources-for-developers
+      - 'public-apis/public-apis: A collective list of free APIs': https://github.com/public-apis/public-apis
+      - Technical Interview Guide for Busy Engineers | Tech Interview Handbook: https://www.techinterviewhandbook.org/
+      - Compiler Explorer: https://godbolt.org/
+      - 情報学研究データリポジトリ ニコニコデータセット: https://www.nii.ac.jp/dsc/idr/nico/
+      - HTML/CSS学習の無料問題集 | オンラインプログラミングスクール忍者CODE: https://ninjacode.work/course/HTML_CSS
+      - かわいいフリー素材集 いらすとや: https://www.irasutoya.com/
+      - shigureni free illust │ 素朴でかわいい女の子のイラスト素材サイト: https://www.shigureni.com/
+      - 無料イラスト・フリー素材なら「イラストAC」: https://www.ac-illust.com/
+      - ガジェットストック | スマホ・パソコンなどの無料イラスト・フリー素材サイト: https://simpc.jp/free/
+      - Human Pictogram 2.0 - free vector human pictograms -: https://pictogram2.com/?lang=en
+      - EXPERIENCE JAPAN PICTOGRAMS: https://experience-japan.info/
+      - アイコン素材ダウンロードサイト「icooon-mono」 | 商用利用可能なアイコン素材が無料(フリー)ダウンロードできるサイト | 6000個以上のアイコン素材を無料でダウンロードできるサイト ICOOON MONO: https://icooon-mono.com/
+      - 商用可の無料(フリー)のアイコン素材をダウンロードできるサイト『icon rainbow』 | カラフルな商用利用可能なアイコン素材を無料でダウンロード!!: https://icon-rainbow.com/
+      - IFN 無料アイコン。SVG/EPS/PNGのフリー素材: https://illustration-free.net/
+      - iconmonstr - Free simple icons for your next project: https://iconmonstr.com/
+      - FLAT ICON DESIGN -フラットアイコンデザイン- | フラットデザインに最適！WEBサイトやDTPですぐ使える商用利用可能なフラットアイコン素材がフリー（無料）ダウンロードできるサイト『FLAT ICON DESIGN』: http://flat-icon-design.com/
+      - Tech Pic: http://tech-pic.com/
+      - Illustrations | unDraw: https://undraw.co/illustrations
+      - Storyset | Customize, animate and download illustration for free: https://storyset.com/
+      - マンガパーツSTOCK – 集中線、効果線特化サイト: https://mangasozai.com/
+      - ダ鳥獣戯画 – 鳥獣戯画を拡張。イラスト素材のベクターデータ配布サイト。新しい戯画もあり: https://chojugiga.com/
+      - 農民イラスト: https://nawmin.stores.jp/
+      - ふきだし素材専門サイト「フキダシデザイン」 – フキダシ素材が1000以上集まるサイト: https://fukidesign.com/
+      - kyuncuts | かわいい・おしゃれなイラスト素材や壁紙を無料でダウンロード: https://kyuncuts.com/
+      - oishiso: https://oishiso.jp/
+      - 4.900万点以上の高品質なフリー画像素材 - Pixabay - Pixabay: https://pixabay.com/ja/
+      - O-DAN (オーダン）- 無料写真素材・フリーフォト検索: https://o-dan.net/ja/
+      - ぱくたそ - 会員登録不要、無料の写真素材・AI画像素材: https://www.pakutaso.com/#google_vignette
+      - 'サイバーセキュリティ情報インプット集 第1.0版 #Security - Qiita': https://qiita.com/secubot5/items/29c7d773a7cf40541a52
+      - 全銀協規定フォーマット: https://www.hyogokenshin.co.jp/wp-content/uploads/format1.pdf
+      - 〔別冊〕全銀協パーソナル・コンピュータ用標準通信プロトコル（ベーシック手順） 適用業務およびレコード・フォーマット - jba_protocol_pc.pdf: >-
+          https://www.zenginkyo.or.jp/fileadmin/res/abstract/efforts/system/jba_protocol_pc.pdf
+      - JSPO 日本スポーツ協会: https://www.japan-sports.or.jp/
+      - ワインの知識講座: https://mywineclub.com/pg/sommelier_kouza.html
+      - 42 Tokyo フランス発のエンジニア養成機関: https://42tokyo.jp/
+      - CA Tech Lounge: https://www.cyberagent.co.jp/careers/special/students/tech_lounge/b/
+      - TechTrain | 本気で、キャリアを伸ばすエンジニア塾。: https://lp.techtrain.dev/
+      - CODEGYM: https://codegym.jp/
+      - 魔法のスプレッドシート: https://magic-spreadsheets.github.io/
+      - Webpack App: https://rive-app.github.io/rive-react/
+      - GS1 Japan Data Bank(GJDB) -商品情報- | データベースサービス | GS1 Japan 一般財団法人流通システム開発センター: https://www.gs1jp.org/database_service/gjdb/
+      - Verified by GS1(GEPIR): https://vbg.gs1jp.org/
+      - Awesome Roadmaps (liuchong/awesome-roadmaps) Overview - Track Awesome List: https://www.trackawesomelist.com/liuchong/awesome-roadmaps/readme/
+      - 'prakhar1989/awesome-courses: :books: List of awesome university courses for learning Computer Science!': https://github.com/prakhar1989/awesome-courses
+      - 'cloudcommunity/Free-Certifications: A curated list of free courses & certifications.': https://github.com/cloudcommunity/Free-Certifications
+      - 'tayllan/awesome-algorithms: A curated list of awesome places to learn and/or practice algorithms.': https://github.com/tayllan/awesome-algorithms
+      - 'DopplerHQ/awesome-interview-questions: :octocat: A curated awesome list of lists of interview questions. Feel free to contribute!': >-
+          https://github.com/DopplerHQ/awesome-interview-questions?source=post_page-----5e7c5cc24c34--------------------------------
+      - 'florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.': https://github.com/florinpop17/app-ideas
+      - 'lmammino/awesome-learn-by-playing: A collection of tech resources that allow you to learn new things by playing games': https://github.com/lmammino/awesome-learn-by-playing
+      - 'ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev': https://github.com/ripienaar/free-for-dev
+      - 'goabstract/Awesome-Design-Tools: The best design tools and plugins for everything 👉': https://github.com/goabstract/Awesome-Design-Tools
+      - 'goabstract/Awesome-Design-Tools: The best design tools and plugins for everything 👉': >-
+          https://github.com/goabstract/Awesome-Design-Tools?tab=readme-ov-file#accessibility-tools
+      - 'DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.': https://github.com/DovAmir/awesome-design-patterns
+      - 'matheusfelipeog/beautiful-docs: Pointers to useful, well-written, and otherwise beautiful documentation.': >-
+          https://github.com/matheusfelipeog/beautiful-docs?source=post_page-----5e7c5cc24c34--------------------------------
+      - 模擬試験アプリ - Python3エンジニア認定基礎／データ分析／実践試験 - ExamApp: https://python-basic.com/
+      - misohagi | Cal.com: https://cal.com/misohagi
+      - 同人誌印刷のケーナイン（K9） 短納期で格安＆初心者の味方！: https://www.k-k9.jp/
+      - Keepa - Amazon Price Tracker: https://keepa.com/#!
+      - 【無料・初心者向け】Webサイトの作り方と準備|Webデザインの教科書: https://web-design-textbook.com/
+      - Codejump【旧 Codestep】 | 作って学ぶコーディング学習サイト（HTML、CSS、JavaScript、WordPress）: https://code-jump.com/
+      - 動くWebデザインアイデア帳: https://ugokuweb.coco-factory.jp/
+      - Techpit（テックピット）|サービスを作りながら学べるプログラミング学習プラットフォーム: https://www.techpit.jp/
+      - Recursion（リカージョン） | コンピュータサイエンスを基礎から学べるプラットフォーム: https://recursionist.io/
+      - エンベーダー | エンジニア予備軍のためのITインフラ学習ゲーム: https://envader.plus/
+      - 忍者CODE｜挫折させないオンラインのプログラミングスクール: https://ninjacode.work/
+      - Professional React Workshops and Training: https://reacttraining.com/
+      - TypeScript入門『サバイバルTypeScript』〜実務で使うなら最低限ここだけはおさえておきたいこと〜: https://typescriptbook.jp/
+      - 筑波大学オープンコースウェア: https://ocw.tsukuba.ac.jp/
+      - Machine Learning University: https://aws.amazon.com/jp/machine-learning/mlu/
+      - Google IT Automation with Python Professional Certificate | Coursera: >-
+          https://www.coursera.org/professional-certificates/google-it-automation
+      - ディープラーニング入門：Chainer チュートリアル: https://tutorials.chainer.org/ja/
+      - JMOOC -Discover Free & Quality MOOC Courses from Japan.: https://www.jmooc.jp/en/
+      - やる夫で学ぶ機械学習シリーズ · けんごのお屋敷: https://tkengo.github.io/blog/2016/06/06/yaruo-machine-learning0/
+      - AI Academy | Python・機械学習・AIを実践的に学べるプログラミング学習サービス: https://aiacademy.jp/
+      - Aidemy | AIプログラミングの学習をオンラインで。機械学習やデータ分析を基礎から学べるAidemy: https://aidemy.net/
+      - 機械学習 入門コースの決定版!機械学習エンジニアを目指すならcodexa（コデクサ）: https://www.codexa.net/
+      - 機械学習のためのPython入門講座 | スキルアップAI | AI/DX人材育成・組織構築 支援パートナー: https://www.skillupai.com/python/
+      - fast.ai – fast.ai—Making neural nets uncool again: https://www.fast.ai/
+      - キカガク | AI・機械学習を学ぶ動画学習プラットフォーム AIプログラミングスクール: https://www.kikagaku.ai/
+      - メディカルAI専門コース オンライン講義資料 — メディカルAI専門コース オンライン講義資料 documentation: https://japan-medical-ai.github.io/medical-ai-course-materials/
+      - DL4US コンテンツ公開ページ | 東京大学松尾・岩澤研究室（松尾研）- Matsuo Lab: https://weblab.t.u-tokyo.ac.jp/dl4us/
+      - "Machine Learning \_|\_ Google for Developers": https://developers.google.com/machine-learning/crash-course?hl=ja
+      - Advanced Machine Learning with scikit-learn[Video]: >-
+          https://www.oreilly.com/library/view/advanced-machine-learning/9781771374927/
+      - Data Scientist in Python Certificate Program – Dataquest: https://www.dataquest.io/path/data-scientist/
+      - Best Data Science Courses Online [2024] | Coursera: https://www.coursera.org/browse/data-science?languages=en
+      - Data Analyst Online Course | Data Analytics | Udacity: https://www.udacity.com/course/data-analyst-nanodegree--nd002
+      - Best Online Data Science Courses and Programs | edX: https://www.edx.org/learn/data-science
+      - データサイエンス・スクール/統計力向上サイト: https://www.stat.go.jp/dss/
+      - gacco - すぐに始めてずっと続けられる動画学習サービス: https://gacco.org/
+      - CloudTech クラウドテック | AWS初学者を導く体系的な動画学習: https://kws-cloud-tech.com/
+      - 【AWS資格】無料WEB問題集＆徹底解説 | ソリューションアーキテクト(SAA): https://aws-exam.net/saa/
+      - 本当にわかりやすいAI入門 - Speaker Deck: https://speakerdeck.com/segavvy/ben-dang-niwakariyasuiairu-men
+      - 生成AIでシステム開発はどう変わるか - Speaker Deck: >-
+          https://speakerdeck.com/etaroid/sheng-cheng-aidesisutemukai-fa-hadoubian-waruka
+      - 1-4_データ・AI利活用のための技術 - 1-4_literacy_level_note.pdf: >-
+          http://www.mi.u-tokyo.ac.jp/consortium2/pdf/1-4_literacy_level_note.pdf
+      - AI研修【MIXI 23新卒技術研修】 - Speaker Deck: https://speakerdeck.com/mixi_engineers/2023-ai-training
+      - メルカリでの生成AI活用@2023.09.28 - Speaker Deck: >-
+          https://speakerdeck.com/mazeltov7/merukaridenosheng-cheng-aihuo-yong-at-2023-dot-09-dot-28
+      - サイバーエージェントのGitHub Copilot導入と 開発生産性 - Speaker Deck: >-
+          https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing
+      - 生成系AIの実応用に向けて - Speaker Deck: >-
+          https://speakerdeck.com/line_developers/toward-practical-applications-of-generative-ai
+      - 機械学習イントロダクション (GMOペパボ機械学習研修2023座学) / Introduction of machine learning in training 2023 - Speaker Deck: >-
+          https://speakerdeck.com/ae14watanabe/introduction-of-machine-learning-in-training-2023
+      - 生成系 AI でプロダクトの価値を高めるには - Speaker Deck: >-
+          https://speakerdeck.com/icoxfog417/sheng-cheng-xi-ai-depurodakutonojia-zhi-wogao-meruniha
+      - 生成AIが抱えるリスクと対策 - Speaker Deck: >-
+          https://speakerdeck.com/lycorptech_jp/risks-and-countermeasures-for-generative-ai
+      - 赤外線リモコンの通信フォーマット: http://elm-chan.org/docs/ir_format.html
+      - Transparency for a Sustainable Ocean | Global Fishing Watch: https://globalfishingwatch.org/
+      - Vidnoz AI：無料AI動画作成ツール｜AIで動画生成は1分でできる: https://jp.vidnoz.com/
+      - WRH-300XX3: http://wrh-300xx3.setup/home.htm
+      - WRH-300XX3: http://wrh-300xx3.setup/
+      - WRH-300XX3: http://192.168.2.251/home.htm
+      - 計算工学ナビ: https://www.cenav.org/
+      - 「ことばのコラム」 | 三省堂 WORD-WISE WEB -Dictionaries & Beyond-: https://dictionary.sanseido-publ.co.jp/column
+      - 夏生嵐彩 | GINGER: https://gingerweb.jp/tag/ransai-natsuki
+      - 西成泥酔旅行: https://nishinari-izakaya.net/
+      - ふりかえりガイド - RetrospectiveMeetingGuide.pdf: https://objectclub.jp/download/files/pf/RetrospectiveMeetingGuide.pdf
+      - 'Google re:Work - ガイド: 「効果的なチームとは何か」を知る': >-
+          https://rework.withgoogle.com/jp/guides/understanding-team-effectiveness?fbclid=IwY2xjawGX3lhleHRuA2FlbQIxMAABHcPaoETjiJ7EQdK2eACViZT_cTfvxuGtMONnOOb-B5690-OwrxOZr7GmPg_aem_pnEqdaRevg5yJcWCGBt3cw#help-teams-take-action
+      - https://taura.github.io/operating-systems/: https://taura.github.io/operating-systems/
+      - SecureNavi サポートチャット ヘルプメンバー　業務概要 - Google スライド: >-
+          https://docs.google.com/presentation/d/1uQzWMPGqA2JFZu0AKA-wxQq3GT1bndIO2fFdTJvqZ1Q/edit#slide=id.g291e485f2a8_0_44
+      - Uiverse | The Largest Library of Open-Source UI elements: https://uiverse.io/
+      - CSS Stock｜Web制作を楽にするCSSコピペサイト: https://pote-chil.com/css-stock/ja
+      - 200 + Free Online Tools for Developers, Testers, and More | LambdaTest: https://www.lambdatest.com/free-online-tools
+      - Free AI Writing, PDF, Image, and other Online Tools - TinyWow: https://tinywow.com/
+      - DevDocs API Documentation: https://devdocs.io/
+      - UI Pocket - UIデザインの参考になるアプリのUIデザインギャラリーサイト: https://www.ui-pocket.com/mobile/apps
+      - bookma!: https://bookma.org/
+      - Shots - Create Amazing Mockups: https://shots.so/
+      - JsonGrid - All-In-One JSON Solution: https://jsongrid.com/
+      - Ping Test - Simultaneously Ping From Different Global Locations | KeyCDN Tools: https://tools.keycdn.com/ping
+      - HTTP for free from Europe - Global HTTP tests by Globalping: https://globalping.io/network-tools/http-from-europe
+      - 個人情報テストデータジェネレーター: https://testdata.userlocal.jp/
+      - TM - WebTools: https://tm-webtools.com/
+      - ダミー画像生成ツール│モック用画像を作成する無料ツール: https://www.websiteplanet.com/ja/webtools/dummy-images-generator/
+      - 地域医療情報システム（日本医師会）: https://jmap.jp/
+      - 仏教の話 – 耕雲寺: https://kouunji.or.jp/buddhism_lecture/lecture_cate/words/
+      - 医学中央雑誌刊行会: https://www.jamas.or.jp/
+      - web.dev: https://web.dev/?hl=ja
+      - Learn to Code — For Free — Coding Courses for Busy People: https://www.freecodecamp.org/
+      - Learn to Code - for Free | Codecademy: https://www.codecademy.com/
+      - Your Career in Web Development Starts Here | The Odin Project: https://www.theodinproject.com/
+      - SQLBolt - Learn SQL - Introduction to SQL: https://sqlbolt.com/
+      - Grid Garden - A game for learning CSS grid: https://cssgridgarden.com/
+      - CSSBattle: https://cssbattle.dev/
+      - chot.design - 毎日ちょっとずつデザインを学ぼう: https://chot.design/
+      - 無料コーディング練習所 | 未経験からWebデザイナーへ！【2024年版】: https://webdesigner-go.com/coding-practice/
+      - Flexbox Froggy - A game for learning CSS flexbox: https://flexboxfroggy.com/
+      - UTokyo OCW (OpenCourseWare): https://ocw.u-tokyo.ac.jp/
+      - Build new skills. Advance your career. | edX: https://www.edx.org/
+      - 京都大学OCW: https://ocw.kyoto-u.ac.jp/
+      - 東北大学MOOCコンテンツ – 東北大学オープンオンライン教育開発推進センター: https://mooc.tohoku.ac.jp/contents/
+      - データサイエンス・スクール/データサイエンス・オンライン講座/誰でも使える統計オープンデータ: https://www.stat.go.jp/dss/online03.html
+      - 通信制大学・大学院の放送大学: https://www.ouj.ac.jp/
+      - ByteByteGo | Technical Interview Prep: https://bytebytego.com/
+      - 「知っておきたい！ユーザー視点の製品・サービス開発」人間中心設計基礎講座｜生活者視点のデザインコンサルティングパートナーU'eyesDesign: https://www.ueyesdesign.co.jp/seminar/hcd.html
+      - gred｜安全なサイトはgreen、危険なサイトはredでお知らせ。無料のWeb安全チェックサービスといえばグレッド！: https://check.gred.jp/#
+      - 詐欺サイトチェッカー: https://checker.sagiwall.jp/
+      - '[ NPAW Suite (旧 YOUBORA Suite) ] 動画配信サービス向けビジネスインテリジェンスソリューション スマートCDNスイッチング｜イノテック株式会社': >-
+          https://www.innotech.co.jp/products/digital_media_solutions/detail/565/extra2.html
+      - 標的型攻撃メール訓練サービスのTadrill -実践/継続的な訓練を実現！ | HENNGE株式会社（へんげ）　-テクノロジーの解放で世の中を変えていく: https://hennge.com/jp/service/tadrill/
+      - 20 psychological laws that will improve your UI design | Blog | Tokyo Aoyama website production company | Department Store Co., Ltd.: https://depart-inc.com/blog/psychology-uiux/
+      - 'Weights & Biases: AI開発者のためのプラットフォーム': https://wandb.ai/site/ja/
+      - SHaiN | 場所と時間はあなたが決める！AI面接サービス: https://shain-ai.jp/
+      - PRONIアイミツパートナー向けサイト｜BtoBの新規案件獲得・ビジネスマッチングなら: https://partner.imitsu.jp/
+  - Mozilla Firefox:
+      - Get Help: https://support.mozilla.org/en-US/products/firefox
+      - Customize Firefox: >-
+          https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize
+      - Get Involved: https://www.mozilla.org/en-US/contribute/
+      - About Us: https://www.mozilla.org/en-US/about/
 
