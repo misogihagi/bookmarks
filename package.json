@@ -5,6 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "generate:bookmarks": "node scripts/yaml-to-bookmarks.js bookmarks.yml > bookmarks.html",
+    "generate:staticmarks": "static-marks build bookmarks.yml > index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
